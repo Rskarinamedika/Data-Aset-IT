@@ -168,7 +168,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         "Keuangan & Direksi": {
             title: "Aset Ruangan Keuangan & Direksi", type: "asset",
-            downloadUrl: "https://yourdomain.com/download/KeuanganDireksi.xlsx"
+            downloadUrl: "https://docs.google.com/spreadsheets/d/1ywYnzDgBVPKaX8G12XdQDjaZg1GpR3od/edit?usp=sharing&ouid=114587840320168759349&rtpof=true&sd=true"
         },
         "Nursestation Lt3": {
             title: "Aset Ruangan Nursestation Lt3", type: "asset",
