@@ -160,7 +160,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         "Kantor 1": {
             title: "Aset Ruangan Kantor 1", type: "asset",
-            downloadUrl: "https://yourdomain.com/download/Kantor1.xlsx"
+            downloadUrl: "https://docs.google.com/spreadsheets/d/1Pzqc6Dzn9SEwQikzo1QMZGqEhCDmY8Wq/edit?usp=sharing&ouid=114587840320168759349&rtpof=true&sd=true"
         },
         "Kantor 2": {
             title: "Aset Ruangan Kantor 2", type: "asset",
